@@ -9,4 +9,4 @@ def am_I_Wilson(n)
     end
     
     (fact + 1) % (n * n) == 0
-  end
+end
